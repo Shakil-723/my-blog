@@ -55,6 +55,27 @@ const posts = [
       <h2>Start smaller than you think</h2>
       <p>Three pages is the goal, not the requirement. Begin with ten minutes. Use a text file, a notebook, whatever feels frictionless. Consistency matters more than volume, and the habit compounds quietly over weeks.</p>
     `
+  },
+  {
+    id: "helen-keller-incredible-story",
+    title: "Helen Keller Ki Incredible Story",
+    excerpt: "Ek aisi ladki jo na dekh sakti thi, na sun sakti thi - phir bhi duniya ki sabse inspiring insaan bani!",
+    tag: "INSPIRATION",
+    date: "June 13, 2026",
+    readTime: "5 min read",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hellen_Keller_circa_1920.jpg/960px-Hellen_Keller_circa_1920.jpg",
+    lead: "Ek aisi ladki jo na dekh sakti thi, na sun sakti thi - phir bhi duniya ki sabse inspiring insaan bani!",
+    body: `
+      <p>Helen ka janam 27 June 1880 ko Alabama America mein hua. 19 mahine ki umar mein brain fever se woh blind aur deaf ho gayi.</p>
+      <p>Anne Sullivan 1887 mein aayi - usne Helen ke haath pe letters trace karne shuru kiye. April 1887 mein water pump pe ek magic moment aaya - Helen samajh gayi ke har cheez ka naam hota hai! Us din 30 words seekhe.</p>
+      <p>Helen ne Braille, Sign Language, aur 5 languages seekhi.</p>
+      <h2>🏆 BIGGEST ACHIEVEMENT</h2>
+      <p>1904 mein Helen Keller ne Radcliffe College (Harvard University) se Bachelor of Arts (BA) degree haasil ki - Cum Laude (highest honors) ke saath!</p>
+      <p>Woh duniya ki PEHLI deaf-blind person thi jinhone Bachelor of Arts degree achieve ki! Yeh ek impossible achievement thi - log kehte the yeh kabhi nahi ho sakta - lekin Helen ne kar dikhaya!</p>
+      <p>Usne 12 books likhi, 35 countries visit ki, American Foundation for the Blind co-found ki.</p>
+      <blockquote>Famous quote: The only thing worse than being blind is having sight but no vision.</blockquote>
+      <p>Helen Keller 1 June 1968 ko 87 saal ki umar mein gayi - lekin unki story aaj bhi millions ko inspire karti hai.</p>
+    `
   }
 ];
 
