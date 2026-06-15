@@ -88,8 +88,8 @@ const posts = [
     lead: "Agar meri naak se bhi khoon bah raha ho, tab bhi main baahar jaaonga aur batting karunga. — Sachin Tendulkar",
     body: `
       <p>Baat un dinon ki hai jab Sachin Tendulkar sirf ek naam nahi the — woh ek jazbaa the, ek junoon the. Maidan par utarte the toh poora Bharat saans rok leta tha.</p>
-      <p>Ek baar ek patrakar ne Sachin se poocha — "Agar aapko chot lag jaaye, naak se khoon aane lage, toh kya aap maidan chhod denge?"</p>
-      <blockquote>"Agar meri naak se bhi khoon bah raha ho, tab bhi main baahar jaaonga aur batting karunga."</blockquote>
+      <p>Sachin ka cricket ke liye jazbaa itna gehra tha ki unhone khud kaha —</p>
+<blockquote>"Agar meri naak se bhi khoon bah raha ho, tab bhi main baahar jaaonga aur batting karunga."</blockquote>
       <p>Yahi tha Sachin ka asli jawaab. Yeh sirf ek baat nahi thi — yeh unki poori zindagi ka falsafa tha.</p>
       <h2>Bachpan se tha cricket ka diwana</h2>
       <p>Sachin Ramesh Tendulkar ka janam 24 April 1973 ko Mumbai mein hua. Unke bade bhai Ajit ne unhe cricket coach Ramakant Achrekar ke paas le gaye. Achrekar sir stumps par ek sikka rakh dete the — jo bhi Sachin ko out kare usse sikka mile. Sachin ke paas aaj bhi woh sikke hain. Woh kehte hain — "Ye meri sabse badi trophy hain."</p>
