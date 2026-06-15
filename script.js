@@ -77,6 +77,31 @@ const posts = [
       <p>Helen Keller 1 June 1968 ko 87 saal ki umar mein gayi - lekin unki story aaj bhi millions ko inspire karti hai.</p>
     `
   }
+,{
+    id: "sachin-tendulkar-kahani",
+    title: "खून बह रहा था, फिर भी मैं खेलूंगा — Sachin Tendulkar",
+    excerpt: "Ek ladke ki kahani jisne dard ko bhi apni taakat bana liya. Sachin Tendulkar ka jazbaa aur unki cricket journey.",
+    tag: "Inspiration",
+    date: "June 15, 2026",
+    readTime: "5 min read",
+    image: "https://picsum.photos/800/400?random=10",
+    lead: "Agar meri naak se bhi khoon bah raha ho, tab bhi main baahar jaaonga aur batting karunga. — Sachin Tendulkar",
+    body: `
+      <p>Baat un dinon ki hai jab Sachin Tendulkar sirf ek naam nahi the — woh ek jazbaa the, ek junoon the. Maidan par utarte the toh poora Bharat saans rok leta tha.</p>
+      <p>Ek baar ek patrakar ne Sachin se poocha — "Agar aapko chot lag jaaye, naak se khoon aane lage, toh kya aap maidan chhod denge?"</p>
+      <blockquote>"Agar meri naak se bhi khoon bah raha ho, tab bhi main baahar jaaonga aur batting karunga."</blockquote>
+      <p>Yahi tha Sachin ka asli jawaab. Yeh sirf ek baat nahi thi — yeh unki poori zindagi ka falsafa tha.</p>
+      <h2>Bachpan se tha cricket ka diwana</h2>
+      <p>Sachin Ramesh Tendulkar ka janam 24 April 1973 ko Mumbai mein hua. Unke bade bhai Ajit ne unhe cricket coach Ramakant Achrekar ke paas le gaye. Achrekar sir stumps par ek sikka rakh dete the — jo bhi Sachin ko out kare usse sikka mile. Sachin ke paas aaj bhi woh sikke hain. Woh kehte hain — "Ye meri sabse badi trophy hain."</p>
+      <h2>16 saal mein International Cricket</h2>
+      <p>Saan 1989 mein, jab Sachin sirf 16 saal ke the, woh Pakistan ke khilaf Test cricket khelne utre. Waqar Younis ki tez gend unke munh par lagi, khoon behne laga. Sab sooche — ab yeh ladka maidan chhodega. Lekin Sachin ne paani se munh dhoya, helmet pahna, aur agli gend ka saamna kiya.</p>
+      <h2>100 Centuries — Ek Naayaab Record</h2>
+      <p>Sachin ne apne 24 saal ke career mein 100 international centuries maare — yeh record aaj bhi koi nahi tod paya. 34,000 se zyada international runs banaye.</p>
+      <p>2011 World Cup jeetne ke baad Sachin ki aankhon mein aansu the. Unhone kaha — "Maine 22 saal se yeh sapna dekha tha. Aaj poora hua."</p>
+      <h2>Asli Sabak</h2>
+      <p>Sachin ki kahani hume sikhati hai — dard ho, mushkil ho, khoon bahe — lekin apna maidan mat chhodo. Haar tab hoti hai jab hum khelna band kar dete hain.</p>
+    `
+  }
 ];
 
 function initTheme() {
