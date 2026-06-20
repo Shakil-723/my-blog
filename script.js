@@ -101,6 +101,38 @@ const posts = [
       <h2>Asli Sabak</h2>
       <p>Sachin ki kahani hume sikhati hai — dard ho, mushkil ho, khoon bahe — lekin apna maidan mat chhodo. Haar tab hoti hai jab hum khelna band kar dete hain.</p>
     `
+  },
+  {
+    id: "smriti-mandhana-cricket-queen",
+    title: "Smriti Mandhana — India Ki Cricket Queen Ki Inspiring Journey",
+    excerpt: "India ki sabse successful aur stylish women cricketers mein se ek — jaaniye Smriti Mandhana ka career, records, aur unki recent match-winning innings.",
+    tag: "Cricket",
+    date: "June 19, 2026",
+    readTime: "4 min read",
+    image: "https://picsum.photos/800/400?random=11",
+    lead: "Elegant stroke play, aggressive batting, aur ek champion ka jazba — Smriti Mandhana ne women's cricket ko ek naya pehchaan diya hai.",
+    body: `
+      <p>Smriti Mandhana women's cricket ki sabse successful aur popular cricketers mein se ek hain. Woh left-handed opening batter hain aur Indian women's national cricket team ki vice-captain bhi. Unki elegant stroke play aur aggressive batting ki wajah se unhe duniya ki best batters mein gina jaata hai.</p>
+
+      <h2>Quick Facts</h2>
+      <p><strong>Full name:</strong> Smriti Shriniwas Mandhana<br>
+      <strong>Born:</strong> 18 July 1996, Mumbai, Maharashtra, India<br>
+      <strong>Batting style:</strong> Left-handed batter<br>
+      <strong>Bowling style:</strong> Right-arm medium pace<br>
+      <strong>Role:</strong> Opening batter<br>
+      <strong>International debut:</strong> 2013 for India Women</p>
+
+      <h2>Career Highlights</h2>
+      <p>Smriti ne multiple ICC awards jeete hain, jisme ICC Women's Cricketer of the Year bhi shamil hai. Unhone 10,000 se zyada international runs banaye hain aur women's cricket mein sabse zyada international centuries ka record share karti hain.</p>
+      <p>Woh Women's Premier League (WPL) mein Royal Challengers Bengaluru ki captain bhi hain, aur India ki 2025 Women's Cricket World Cup jeet mein unka bahut bada role tha.</p>
+
+      <h2>Recent Form</h2>
+      <p>2026 Women's T20 World Cup ke opening match mein, Pakistan ke khilaf, Mandhana ne 44 balls mein shaandar 68 runs banaye — jisse India ko 64 runs ki convincing victory mili.</p>
+
+      <blockquote>"Unka batting style sirf runs nahi banata — woh cricket ko ek art form bana deta hai."</blockquote>
+
+      <p>Smriti Mandhana ki journey young players ke liye, especially ladkiyon ke liye, ek bahut badi inspiration hai — ki talent aur hard work se kisi bhi field mein top tak pohcha ja sakta hai.</p>
+    `
   }
 ];
 
