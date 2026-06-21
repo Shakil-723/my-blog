@@ -156,6 +156,31 @@ const posts = [
       <p>योग का नियमित अभ्यास न केवल शारीरिक स्वास्थ्य को सुदृढ़ करता है, बल्कि यह मानसिक और भावनात्मक स्थिरता का भी आधार बनता है। दिन में मात्र 20-30 मिनट का योगाभ्यास जीवन की गुणवत्ता में उल्लेखनीय सुधार ला सकता है।</p>
     `
   },
+  {
+    id: "blood-donation-health-benefits",
+    title: "Blood Donation Ke Health Benefits — Kyun Hai Yeh Zaroori",
+    excerpt: "Blood donate karna sirf dusron ki jaan bachata hai — balki aapki apni health ke liye bhi faydemand hai. Jaaniye kaise.",
+    tag: "Health",
+    date: "June 21, 2026",
+    readTime: "3 min read",
+    image: "https://picsum.photos/800/400?random=13",
+    lead: "Ek single blood donation se teen logon ki jaan bach sakti hai — aur donor ki khud ki body ko bhi fayda hota hai.",
+    body: `
+      <p>Blood donation ek aisa kaam hai jisse hum kisi aur ki jaan bachate hain — lekin bahut kam log jaante hain ki isse donor ki khud ki health ko bhi kayi fayde hote hain. Niyamit blood donation ek healthy habit ban sakti hai, jo physical aur mental dono tarah se faydemand hai.</p>
+      <h2>Free Health Check-Up</h2>
+      <p>Har baar blood donate karne se pehle, basic health screening hoti hai — blood pressure, hemoglobin level, pulse rate, aur body temperature check ki jaati hai. Yeh ek free health check-up jaisa hai jo regularly aapko apni health ke baare mein update rakhta hai.</p>
+      <h2>Heart Health Mein Sudhar</h2>
+      <p>Research bataती hai ki regular blood donation se blood mein iron ka level balanced rehta hai, jo heart attack aur stroke ke risk ko kam karne mein madad karta hai. Excess iron blood vessels ko damage kar sakta hai, aur donation isse control mein rakhta hai.</p>
+      <h2>Naye Blood Cells Banate Hain</h2>
+      <p>Donation ke baad, body naye red blood cells banana shuru kar deti hai. Yeh process bone marrow ko active rakhta hai aur overall blood circulation ko healthy banata hai.</p>
+      <h2>Mental Health Aur Satisfaction</h2>
+      <p>Kisi ki jaan bachane ka ehsaas ek positive emotional impact deta hai. Studies mein dekha gaya hai ki regular donors mein stress level kam hota hai aur unhe zyada purposeful feel hota hai.</p>
+      <h2>Kaun Donate Kar Sakta Hai?</h2>
+      <p>Generally 18-65 saal ke healthy adults, jinka weight 50 kg se zyada ho, blood donate kar sakte hain. Har 3 mahine mein ek baar donate karna safe maana jata hai.</p>
+      <h2>Nishkarsh</h2>
+      <p>Blood donation ek choti si activity hai jiska bada impact hota hai — dusron ki jaan bachane ke saath-saath, aapki apni health ko bhi fayda milta hai. Agar aap eligible hain, to apne nearest blood bank ya camp mein jaa kar donate karne ki koshish kariye.</p>
+    `
+  },
 ];
 
 function initTheme() {
